@@ -1,2 +1,2 @@
 # UnityDistorsionShader
-Distorsion shader implemented through Unity
+Distorsion shader implemented in Unity 
